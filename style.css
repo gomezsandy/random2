@@ -1,0 +1,20 @@
+#button-container {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+body {
+    background-color: #E7FEFF;
+}
+@import url('https://fonts.googleapis.com/css?family=Jim+Nightshade');
+h1 {
+    font-family: 'Jim Nightshade', cursive;
+}
+h1 {
+    color: #8B008B;
+}
+h1 {
+    font-size: 250%;
+}
